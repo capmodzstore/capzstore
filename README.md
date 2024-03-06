@@ -3,7 +3,7 @@
 </p>
 
 ### INSTALL SCRIPT 
-<pre><code>apt install -y wget screen && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/diah082/vip/main/setup.sh && chmod +x setup.sh && screen -S install ./setup.sh
+<pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget --no-check-certificate https://raw.githubusercontent.com/capmodzstore/capzstore/main/run.sh && chmod +x run.sh && ./run.sh
 </code></pre>
 
 ### TESTED ON OS 
